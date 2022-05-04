@@ -1,0 +1,25 @@
+{
+  "name": "express_basic",
+  "version": "1.0.0",
+  "description": "Mi primer server con Express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Test\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnovellas/express_basic.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "David Novella",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dnovellas/express_basic/issues"
+  },
+  "homepage": "https://github.com/dnovellas/express_basic#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
